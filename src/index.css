@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Add any truly global custom CSS here, after the Tailwind imports. */
+/* For instance, if you want a custom font globally not covered by Tailwind defaults: */
+/*
+body {
+  font-family: 'Inter', sans-serif;
+}
+*/
